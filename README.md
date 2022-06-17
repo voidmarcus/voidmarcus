@@ -4,8 +4,6 @@ I have extensive knowledge in the data area, having experience both as a Data Sc
 
 ### Certifications:
 
-[<img align="left" width="100" height="100" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/53113890">](https://www.credential.net/bc7a74ca-dfe7-479b-922b-d56be2cf2595)
-
 [<img align="left" width="100" height="100" src="https://images.credly.com/size/220x220/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png">](https://www.credly.com/badges/e6817304-6e8e-4cc4-929e-0d23f22f90bb/public_url)
 
 [<img align="left" width="100" height="100" src="https://images.credly.com/size/680x680/images/60cf69ce-6129-425d-9a42-7732fa07da1e/Tools_for_Data_Science_Foundational.png">](https://www.credly.com/badges/5117d62a-fe73-4597-8e24-52350b64929e/public_url)
@@ -19,6 +17,9 @@ I have extensive knowledge in the data area, having experience both as a Data Sc
 [<img align="inline" width="100" height="100" src="https://images.credly.com/size/680x680/images/fa39f4f0-174a-4886-b821-6a37d42b8b3a/Cognitive_Class_-_Data_Analysis_w_Python.png">](https://www.credly.com/badges/40fa5d25-bcd4-42c1-b994-567c86b967b0/public_url)
 
 [<img align="inline" width="100" height="100" src="https://images.credly.com/size/680x680/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png">](https://www.credly.com/badges/8706b119-e64f-48dd-b749-0d922298003f/public_url)
+
+
+[<img align="left" width="100" height="100" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/53113890">](https://www.credential.net/bc7a74ca-dfe7-479b-922b-d56be2cf2595)
 
 <h4 align="center">
 <details>
