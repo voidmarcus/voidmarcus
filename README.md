@@ -2,12 +2,6 @@
 
 I have extensive knowledge in the data area, having experience both as a Data Scientist and as a Data Engineer. He has an academic background focused on computing and applied mathematics and is interested in predictive models and distributed computing.
 
-### Connect with me:
-
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/marcus-v-oliveira/)
-
-<br />
-
 ### Certifications:
 [<img align="left" width="100" height="100" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/53113890">](https://www.credential.net/bc7a74ca-dfe7-479b-922b-d56be2cf2595)
 
@@ -25,9 +19,72 @@ I have extensive knowledge in the data area, having experience both as a Data Sc
 
 [<img align="left" width="100" height="100" src="https://images.credly.com/size/680x680/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png">](https://www.credly.com/badges/8706b119-e64f-48dd-b749-0d922298003f/public_url)
 
+</br>
+</br>
+</br>
+<h4 align="center">
+<details>
+<summary>Mais...</summary>
 
-<br /> <br /> <br /> <br /> <br /> <br />
+<p align="center">
+  <a href="https://github.com/voidmarcus">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api?username=voidmarcus&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+    />
+  </a>
+  <a href="https://github.com/voidmarcus">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidmarcus&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+    />
+  </a>
+</p>
 
----
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=voidmarcus&show_icons=true&hide_border=true" />
+<p align="center">
+  <a href="https://github.com/voidmarcus">
+    <img
+      align="center"
+      src="https://github-profile-trophy.vercel.app/?username=voidmarcus&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
+    />
+  </a>
+</a>
+</p>
+
+
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+<!--   <a href="https://instagram.com/seu-usuario/">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
+    />
+  </a>
+  <a href="https://twitter.com/seu-usuario">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=00FFFF"
+    />
+  </a>
+  <a href="https://discord.gg/seu-server">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Discord-1C1C1C?style=for-the-badge&logo=discord&logoColor=00FFFF">
+  </a> -->
+  <a href="https://www.linkedin.com/in/marcus-v-oliveira/">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
+  </a>
+<!--   <a href="https://www.youtube.com/channel/link-do-canal">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/YouTube-1C1C1C?style=for-the-badge&logo=youtube&logoColor=00FFFF"
+    />
+  </a> -->
+</p>
+</details>
