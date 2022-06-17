@@ -21,13 +21,12 @@ I have extensive knowledge in the data area, having experience both as a Data Sc
 
 [<img align="left" width="100" height="100" src="https://images.credly.com/size/680x680/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/Cognitive_Class_-_DB_and_SQL_for_Data_Sci.png">](https://www.credly.com/badges/bb84995f-521d-4dc6-9e15-5ed4523eb141/public_url)
 
-
 [<img align="left" width="100" height="100" src="https://images.credly.com/size/680x680/images/fa39f4f0-174a-4886-b821-6a37d42b8b3a/Cognitive_Class_-_Data_Analysis_w_Python.png">](https://www.credly.com/badges/40fa5d25-bcd4-42c1-b994-567c86b967b0/public_url)
 
 [<img align="left" width="100" height="100" src="https://images.credly.com/size/680x680/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png">](https://www.credly.com/badges/8706b119-e64f-48dd-b749-0d922298003f/public_url)
 
 
-<br /> <br /> <br /> <br />
+<br /> <br /> <br /> <br /> <br /> <br />
 
 ---
 
