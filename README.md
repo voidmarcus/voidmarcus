@@ -20,7 +20,6 @@ I have extensive knowledge in the data area, having experience both as a Data Sc
 
 [<img align="inline" width="100" height="100" src="https://images.credly.com/size/680x680/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png">](https://www.credly.com/badges/8706b119-e64f-48dd-b749-0d922298003f/public_url)
 
-</br>
 <h4 align="center">
 <details>
 <summary>Mais...</summary>
