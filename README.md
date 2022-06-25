@@ -1,6 +1,6 @@
 ### Marcus Vinícius de Oliveira - [Data Scientist / Data Engineer]
 
-I have extensive knowledge in the data area, having experience both as a Data Scientist and as a Data Engineer. He has an academic background focused on computing and applied mathematics and is interested in predictive models and distributed computing.
+I have extensive knowledge in the data area, having experience both as a Data Scientist and as a Data Engineer. With an academic background focused on computing and applied mathematics, I am interested in predictive models and distributed computing.
 
 ### Certifications:
 
